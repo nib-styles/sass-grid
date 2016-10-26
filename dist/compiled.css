@@ -69,6 +69,12 @@
     align-items: stretch; }
   .flexbox .grid[g-xs~="order:reverse"] {
     flex-direction: row-reverse; }
+  .flexbox .grid[g-xs~="wrap:wrap"] {
+    flex-wrap: wrap; }
+  .flexbox .grid[g-xs~="wrap:nowrap"] {
+    flex-wrap: nowrap; }
+  .flexbox .grid[g-xs~="wrap:wrap-reverse"] {
+    flex-wrap: wrap-reverse; }
   .flexbox .grid__unit[g-xs~="cols:min"] {
     flex-grow: 0;
     flex-basis: auto;
@@ -217,6 +223,12 @@
     align-items: stretch; }
   .flexbox .grid[g-sm~="order:reverse"] {
     flex-direction: row-reverse; }
+  .flexbox .grid[g-sm~="wrap:wrap"] {
+    flex-wrap: wrap; }
+  .flexbox .grid[g-sm~="wrap:nowrap"] {
+    flex-wrap: nowrap; }
+  .flexbox .grid[g-sm~="wrap:wrap-reverse"] {
+    flex-wrap: wrap-reverse; }
   .flexbox .grid__unit[g-sm~="cols:min"] {
     flex-grow: 0;
     flex-basis: auto;
@@ -365,6 +377,12 @@
     align-items: stretch; }
   .flexbox .grid[g-md~="order:reverse"] {
     flex-direction: row-reverse; }
+  .flexbox .grid[g-md~="wrap:wrap"] {
+    flex-wrap: wrap; }
+  .flexbox .grid[g-md~="wrap:nowrap"] {
+    flex-wrap: nowrap; }
+  .flexbox .grid[g-md~="wrap:wrap-reverse"] {
+    flex-wrap: wrap-reverse; }
   .flexbox .grid__unit[g-md~="cols:min"] {
     flex-grow: 0;
     flex-basis: auto;
@@ -513,6 +531,12 @@
     align-items: stretch; }
   .flexbox .grid[g-lg~="order:reverse"] {
     flex-direction: row-reverse; }
+  .flexbox .grid[g-lg~="wrap:wrap"] {
+    flex-wrap: wrap; }
+  .flexbox .grid[g-lg~="wrap:nowrap"] {
+    flex-wrap: nowrap; }
+  .flexbox .grid[g-lg~="wrap:wrap-reverse"] {
+    flex-wrap: wrap-reverse; }
   .flexbox .grid__unit[g-lg~="cols:min"] {
     flex-grow: 0;
     flex-basis: auto;
@@ -661,6 +685,12 @@
     align-items: stretch; }
   .flexbox .grid[g-xl~="order:reverse"] {
     flex-direction: row-reverse; }
+  .flexbox .grid[g-xl~="wrap:wrap"] {
+    flex-wrap: wrap; }
+  .flexbox .grid[g-xl~="wrap:nowrap"] {
+    flex-wrap: nowrap; }
+  .flexbox .grid[g-xl~="wrap:wrap-reverse"] {
+    flex-wrap: wrap-reverse; }
   .flexbox .grid__unit[g-xl~="cols:min"] {
     flex-grow: 0;
     flex-basis: auto;

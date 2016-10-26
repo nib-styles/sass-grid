@@ -1,13 +1,13 @@
 {
   "name": "@nib-styles/sass-grid",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/nib-styles/sass-grid.git"
   },
   "dependencies": {
     "@nib-styles/sass-breakpoints": "^1.0.0",
-    "sass-grid": "^2.0.0"
+    "sass-grid": "^3.0.0"
   },
   "scripts": {
     "build": "sass-composer compiled.scss -o dist/compiled.css"
