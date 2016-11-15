@@ -96,3 +96,13 @@ The `content` class is the default nib content container. It has a max width of 
 ## Breakpoints
 
 See [@nib-styles/sass-breakpoints](https://github.com/nib-styles/sass-breakpoints).
+
+## Changelog
+
+### 1.0.0
+
+- Bump to major version to avoid npm < 1.0.0 version weirdness
+
+### 0.4.0
+
+- Bump version of `sass-grid` to add wrapping utilities.
